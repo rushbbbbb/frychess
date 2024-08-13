@@ -12,7 +12,7 @@ export default function Card() {
         <script src="/card.js"></script>
         <title>情趣任务卡牌游戏</title>
       </Head>
-      <div class="w-full leading-8 min-h-screen text-shadow bg-pink-400 text-lg text-red-100">
+      <div class="w-full leading-8 min-h-screen text-shadow text-lg text-red-100" style="background-color: #5c6748;">
         <div class="max-w-screen-md mx-auto ">
           <div class="p-2 flex items-center w-full">
             <a class="flex-1" href="/">
@@ -20,7 +20,7 @@ export default function Card() {
             </a>
             <div class="flex-auto text-center" ><span id="title">基础版</span>任务卡牌</div>
             <div class="flex-1 text-right" >
-              <a class="p-2 bg-pink-600 border text-sm whitespace-nobreak rounded" href="/card_version">选择版本</a>
+              
             </div>
           </div>
           <div class="flex my-4 justify-center">
