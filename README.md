@@ -1,39 +1,15 @@
-## 情侣飞行棋 && 姿势卡牌
+## 情侣飞行棋 && 暧昧卡牌
 
 <img src="menu.png" width="360px" alt="情侣小游戏"/>
 
-## 访问地址 https://17fei.fun
+## 访问地址 https://rushbbbbb-frychess-911.deno.dev/
 
-### 这是一个情侣专用的小游戏网站，不依赖数据库， 自己改一下客服收款信息和Logo就能用来赚钱了。
+### 这是一个情侣专用的小游戏网站
 
 ### 部署运行
 
-30s部署， fork后在deno deploy里面直接选择项目
-
-开发命令
-
-```
-deno task start
-```
+deno deploy里面直接选择项目 https://dash.deno.com/
 
 ### 技术架构
 
-虽然是纯前端项目， 但是使用了fresh + deno的技术栈。 相对小众但是和next.js有相似的地方，半小时左右可上手。
-
-### 其他分享
-
-https://17fei.fun/share0
-
-### 微信
-
-wbot10
-
-### 部署服务
-
-99元网站上线服务，包含图片资源（开源库中不包含敏感图片）
-
-### 告别程序员生涯
-
-2024年转行和朋友一起卖情趣用品，喜欢的可以支持一下。
-
-https://17fei.fun/store
+虽然是纯前端项目， 但是使用了fresh + deno的技术栈。
