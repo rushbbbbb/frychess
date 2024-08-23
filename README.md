@@ -1,10 +1,8 @@
-## 情侣飞行棋 && 暧昧卡牌
+## 任务卡牌 && 飞行棋
 
-<img src="menu.png" width="360px" alt="情侣小游戏"/>
+<img src="image.png" width="360px" alt="情侣小游戏"/>
 
-## 访问地址 https://rushbbbbb-frychess-911.deno.dev/
-
-### 这是一个情侣专用的小游戏网站
+### 情侣游戏网站
 
 ### 部署运行
 
